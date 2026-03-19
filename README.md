@@ -1,1 +1,1 @@
-# HTTP-server-on-rasberry-pi
+# HTTP server on single board computer
